@@ -11,7 +11,7 @@
 
 # Angular
 * ng serve -> starte server
-* 
+* ng g c home --skipp-tests -> generate component name --para
 
 # MD File Shortcuts
 * Strg + Shift + V -> Preview
