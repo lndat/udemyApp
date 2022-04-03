@@ -13,6 +13,10 @@
 * ng serve -> starte server
 * ng g c home --skipp-tests -> generate component name --para
 
+
+
+
+
 # MD File Shortcuts
 * Strg + Shift + V -> Preview
 * \# H1 ## H2 ### H3
@@ -24,3 +28,4 @@
 * \> blockquote
 * \[title](https://www.example.com) Link
 * \![alt text](image.jpg) Image
+
